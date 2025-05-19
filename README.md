@@ -1,22 +1,32 @@
-# ProfileUIActivity
-This project is a modern Profile UI screen inspired by the sleek and minimal design language of the CRED app. Built using native Android components, it showcases professional-grade UI practices like structured layout hierarchy, reusable drawable assets, and interactive elements including back navigation and support buttons.
+This project is a modern Profile UI screen, inspired by the sleek and minimal design language of the CRED app. Built using native Android components, it demonstrates professional-grade UI practices such as structured layout hierarchy, reusable drawable assets, and interactive navigation elements.
 
-**Features**
-1. CRED-Inspired Design: Clean, minimal, and modern UI inspired by the CRED app’s elegant aesthetic.
-2. Intuitive Navigation: Includes a smooth back button interaction and a well-placed support button for enhanced UX.
-3. Modular & Reusable Components: Custom vector drawables and shape-based backgrounds to ensure scalability and consistency across devices.
-4. Dark Theme Ready: Designed with dark mode in mind — perfect for apps prioritizing a premium look and feel.
-5. Interactive Support Section: A stylized support button with icon and text wrapped inside a rounded border, replicating real-world app design patterns.
-6. Responsive Layout: Fully responsive XML layouts that adapt to various screen sizes and orientations etc.
+** Features**
+1. CRED-Inspired Design – Clean, minimal, and elegant UI.
+2. Intuitive Navigation – Back and support button functionality for better UX.
+3. Modular & Reusable Components – Includes vector drawables and shape-based assets.
+4. Dark Theme Ready – Built to support dark mode out of the box.
+5. Interactive Support Section – Button with icon + text inside a rounded border, replicating real-world app designs.
+6.Responsive Layout – Adapts well to different screen sizes and orientations.
 
 **Screenshots**
-1. Main Activity : Displays the app name and a button to navigate to the Profile Activity. ( ![MainPage](https://github.com/user-attachments/assets/2c333e6d-b3ac-440a-8413-b988db2b032a)
-2. Profile Activity Page: Displays all the features as mentioned in the assignment with slight changes. (![Profile Page](https://github.com/user-attachments/assets/b47b425f-7bc8-4f1e-ba11-2ada2fbca720)
-3. Edit Profile Activity : Allows the user to edit the profile by enabling them to add thier Name , Mail-id ,Contact no and Profile picture as well.(![Profile Page](https://github.com/user-attachments/assets/1f5c7311-46c2-411d-91d8-94aaea924a54)
-4. User Filling Details.(![Details filling](https://github.com/user-attachments/assets/8f7a32f1-654c-410b-85cc-85bfc0874fbc)
-5. User trying to add the Profile picture which enables them to browse from the local machine via gallery or file explorer.(![Details filling along with Profile picture](https://github.com/user-attachments/assets/873af5b4-cafd-404c-89c1-4c51897077a1)
-6. Updated Profile. (![UpdatedProfileActivity](https://github.com/user-attachments/assets/c09361a7-67ea-4876-989b-91f7d0833b01)
-7. A simple Transactions page.![UpdatedProfileActivity](https://github.com/user-attachments/assets/a6e82199-5679-46ec-afeb-7b219ad56ca4)
+Screen	Description	Preview
+1. Main Activity	Displays the app name and a button to navigate to the Profile screen.	
+![MainPage](https://github.com/user-attachments/assets/2b2f97d8-1ade-4c2b-b4b7-0ef1bbe2c4c4)
 
+2. Profile Activity	Displays all profile-related features with CRED-inspired design.
+![Profile Page](https://github.com/user-attachments/assets/31cbd9e5-f38c-41d3-a802-9396cc576957)
 
+3. Edit Profile Activity	User can update name, email, contact number, and profile image.	
+![Edit Profile Page](https://github.com/user-attachments/assets/0705bf90-d06a-4103-8eb6-7e32165405e9)
 
+4. Filling Details	Shows the user entering profile details.	
+![Details filling](https://github.com/user-attachments/assets/a9e12751-fa57-4ba7-adda-ffa9d4a2401c)
+
+5. Adding Profile Picture	Enables users to choose a picture from gallery or file explorer.	
+![Details filling along with Profile picture](https://github.com/user-attachments/assets/6fa98ac9-31d5-4dc1-aed4-31f7f655f50d)
+
+6. Updated Profile	Shows the newly updated profile with user details.	
+![UpdatedProfileActivity](https://github.com/user-attachments/assets/cad29289-6a55-4085-979c-80a91b73dc2b)
+
+7. Transactions Page	A simple transactions interface as part of the UI flow.
+![Sample transaction Page when clicked on All transactions](https://github.com/user-attachments/assets/d1d84286-c4b3-499f-a554-5fdaee8c6411)
