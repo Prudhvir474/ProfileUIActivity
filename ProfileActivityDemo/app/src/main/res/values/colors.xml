@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors -->
+    <color name="dark_background">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_secondary">#808080</color>
+    <color name="accent_green">#00FF7F</color>
+    <color name="border_color">#333333</color>
+    <color name="button_background">#1A1A1A</color>
+    <color name="card_background">#121212</color>
+    <color name="icon_gray">#6E6E6E</color>
+
+
+</resources>
