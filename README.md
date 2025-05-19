@@ -19,7 +19,7 @@ Screen	Description	Preview
 3. Edit Profile Activity	User can update name, email, contact number, and profile image.	
 ![Edit Profile Page](https://github.com/user-attachments/assets/0705bf90-d06a-4103-8eb6-7e32165405e9)
 
-4. Filling Details	Shows the user entering profile details.	
+4. Filling Details	Shows the user entering profile details.
 ![Details filling](https://github.com/user-attachments/assets/a9e12751-fa57-4ba7-adda-ffa9d4a2401c)
 
 5. Adding Profile Picture	Enables users to choose a picture from gallery or file explorer.	
